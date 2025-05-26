@@ -1,4 +1,5 @@
 # Blockchain Based IoT Software Update Platform
+> Hansung University Capstone design 
 
 <table>
   <tr>
@@ -6,11 +7,10 @@
     <td><img src="https://github.com/user-attachments/assets/b0f34620-ff57-46ce-b87a-61108d3c85bc" width="400" height="250" /></td>
   </tr>
 </table>
-(사진 바꿀꺼임)
 
 
 &nbsp;
-## 📝 Project Description
+## *****Project Description*****
 본 프로젝트는 IoT 기기의 안전한 소프트웨어 업데이트를 위해  
 **블록체인**과 **CP-ABE(속성 기반 암호화)** 기술을 결합한 **분산형 소프트웨어 업데이트 플랫폼**입니다.
 
@@ -19,25 +19,25 @@
 - **CP-ABE**를 통해 제조사의 정책과 속성이 일치하는 기기에만 업데이트를 허용하여 **보안성**을 강화합니다.
 - **IPFS**를 활용하여 대용량 업데이트 파일을 **분산 저장**하여 효율성과 고가용성을 확보합니다.
 
-이 플랫폼은 **기기 인증, 무결성, 감사 가능성, 고가용성**을 보장하며,  
-제조사와 사용자 모두에게 **안전하고 신뢰할 수 있는 업데이트 환경**을 제공합니다.
+이 플랫폼은 **기기 인증, 무결성, 감사 가능성, 고가용성**을 보장하며, 제조사와 사용자 모두에게 **안전하고 신뢰할 수 있는 업데이트 환경**을 제공합니다.
 
-> **2025년 한국자동차공학회 춘계학술대회** 출간  
-> 「자동차 ECU 환경의 소프트웨어 업데이트를 위한 해시 함수 성능 평가 연구」  
-> 「속성 만료와 속성 레벨 키 갱신을 활용한 CP-ABE 기반 IoT 소프트웨어 업데이트의 보안성 강화 연구」 
->
-> 추후 음성 인식 기능을 도입하여 차량 소유자를 식별하고, 소프트웨어 업데이트 접근 제어의 보안성을 더욱 강화할 예정
+&nbsp;
+> ※ **2025년 한국자동차공학회 춘계학술대회** 논문 투고  
+> 자동차 ECU 환경의 소프트웨어 업데이트를 위한 해시 함수 성능 평가 연구   
+> 속성 만료와 속성 레벨 키 갱신을 활용한 CP-ABE 기반 IoT 소프트웨어 업데이트의 보안성 강화 연구 
+>   
+> ※ 추후 SW산학협력프로젝트를 통해 SDV(Software-Defined Vehicle) 환경에 적합한 음성 인식 기반 OTA 소프트웨어 업데이트 적용 기법을 연구할 예정이며, 이를 통해 음성 인식 기능을 도입하여 차량 소유자를 식별하고, 소프트웨어 업데이트 접근 제어의 보안성을 한층 강화할 계획
 
 
 &nbsp;
-## 🔧 Architecture
+## *****Architecture*****
 <p align="center">
   <img width="960" alt="architecture-diagram" src="https://github.com/user-attachments/assets/a7cb9ac8-c929-46be-879d-7f68039cad7f" />
 </p>
 
 
 &nbsp;
-## 🛠 Technologies Used
+## *****Technologies Used*****
 
 ### Frontend
 - React
@@ -73,10 +73,9 @@
 
 
 &nbsp;
-## ✨ Main Features
+## ✨ *****Main Features*****
 
 ### Manufacturer
-(사진 바꿀꺼임)
 <table>
   <tr>
     <td><img width="400" src="https://github.com/user-attachments/assets/b9aeac84-ceb9-4d2f-bda7-06174e1e72cd" /></td>
@@ -101,7 +100,6 @@
   
 &nbsp;
 ### Device
-(사진 바꿀꺼임)
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/44907395-e1d9-481a-a6cb-e73601ebf84e" width="400" height="250" /></td>
@@ -122,17 +120,28 @@
 
 
 &nbsp;
-## ⛓️ Team Blocker - Developers
+## *****Expected Impact*****
+1. **보안 위협 차단**  
+   IoT 기기의 소프트웨어 업데이트 과정에서 발생할 수 있는 무단 접근, 위조, 결제 미이행 등의 보안 위협을 차단하고  
+   기기 인증 및 데이터 무결성을 보장
+
+2. **신뢰성 확보**  
+   CP-ABE를 통해 제조사의 정책과 일치하는 속성을 가진 디바이스만 복호화가 가능하며,  
+   블록체인 및 스마트 컨트랙트를 통해 결제 및 배포 과정의 신뢰성을 강화
+
+3. **감사 가능성**  
+   모든 업데이트 내역이 블록체인에 투명하게 기록되어 조작이 불가능하고, 
+   감사 및 컴플라이언스 대응이 용이
+
+4. **확장성 및 고가용성**  
+   IPFS 기반의 파일 분산 저장 구조를 통해 대규모 IoT 환경에서도 뛰어난 확장성과 고가용성을 제공
+
+
+&nbsp;
+## ⛓️ *****Team Blocker - Developers*****
 | <a href="https://github.com/kharabiner" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/168187962?v=4" /></a> | <a href="https://github.com/3DUCK" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/127683099?v=4" /></a> | <a href="https://github.com/se0y" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/170965462?v=4" /></a> | <a href="https://github.com/marulog" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/150882419?v=4" /></a> | <a href="https://github.com/mmije0ng" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/127730905?v=4" /></a> |
 |:-------------:|:------:|:------:|:------:|:------:|
-| 박한빈 (팀장) | 공서연 | 김건우 | 박준희 | 박미정 |
-
-### Specific Roles
-- **박한빈**: 블록체인 모듈 개발 및 Registry, 스마트 컨트랙트 구현, 제조사 백엔드 구현  
-- **공서연**: 디바이스 백엔드 및 프론트엔드 구현, 디바이스 아키텍처 시각화 구현  
-- **김건우**: 제조사 프론트엔드 구현, 제조사 아키텍처 시각화 구현  
-- **박준희**: IoT 자동차 동작 기능 구현, IPFS 모듈 구현  
-- **박미정**: 암호화 및 복호화 모듈 구현, 제조사 백엔드 구현  
+| [박한빈 (팀장)](https://github.com/kharabiner) | [공서연](https://github.com/se0y) | [김건우](https://github.com/3DUCK) | [박준희](https://github.com/marulog) | [박미정](https://github.com/mmije0ng) |
 
 ### Contact
 - **박한빈**: 2271432@hansung.ac.kr  
