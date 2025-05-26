@@ -3,8 +3,8 @@
 
 <table>
   <tr>
-    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/69b90301-c7ef-4aa5-85b9-f2aee1d46f71" /></td>
-    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/44907395-e1d9-481a-a6cb-e73601ebf84e" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/69b90301-c7ef-4aa5-85b9-f2aee1d46f71" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/44907395-e1d9-481a-a6cb-e73601ebf84e" /></td>
   </tr>
 </table>
 
@@ -78,12 +78,12 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 ### Manufacturer
 <table>
   <tr>
-    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/b9aeac84-ceb9-4d2f-bda7-06174e1e72cd" /></td>
-    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/69b90301-c7ef-4aa5-85b9-f2aee1d46f71" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/b9aeac84-ceb9-4d2f-bda7-06174e1e72cd" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/69b90301-c7ef-4aa5-85b9-f2aee1d46f71" /></td>
   </tr>
   <tr>
-    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/f9a37c23-d531-4734-a88f-4a39f24d5ed5" /></td>
-    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/719cfabb-e33d-4ffc-8f4c-6c283608f810" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/f9a37c23-d531-4734-a88f-4a39f24d5ed5" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/719cfabb-e33d-4ffc-8f4c-6c283608f810" /></td>
   </tr>
 </table>
 
@@ -102,8 +102,8 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 ### Device
 <table>
   <tr>
-    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/44907395-e1d9-481a-a6cb-e73601ebf84e" /></td>
-    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/b0f34620-ff57-46ce-b87a-61108d3c85bc" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/44907395-e1d9-481a-a6cb-e73601ebf84e" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/b0f34620-ff57-46ce-b87a-61108d3c85bc" /></td>
   </tr>
 </table>
 
