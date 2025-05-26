@@ -3,10 +3,22 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9508e83c-46c1-416d-afe7-486f8ff9a9cc" width="400" height="250" /></td>
-    <td><img src="https://github.com/user-attachments/assets/b0f34620-ff57-46ce-b87a-61108d3c85bc" width="400" height="250" /></td>
+    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/69b90301-c7ef-4aa5-85b9-f2aee1d46f71" /></td>
+    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/44907395-e1d9-481a-a6cb-e73601ebf84e" /></td>
   </tr>
 </table>
+
+&nbsp;
+## Contents
+- [Project Description](#project-description)
+- [Architecture](#architecture)
+- [Technologies Used](#technologies-used)
+- [Main Features](#-main-features)
+  - [Manufacturer](#manufacturer)
+  - [Device](#device)
+- [Expected Impact](#expected-impact)
+- [Achievements and Future Research](#achievements-and-future-research)
+- [Team Blocker Developers](#️-team-blocker-developers)
 
 
 &nbsp;
@@ -15,13 +27,6 @@
 업데이트 내역을 블록체인에 기록함으로써 제조사가 임의로 수정할 수 없도록 하여 투명성을 확보하고, 스마트 계약을 통해 소프트웨어 배포와 결제를 원자적으로 처리한다.   
 CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 디바이스만 업데이트가 가능하도록 함으로써 안전한 업데이트를 제공하고, IPFS를 활용해 대용량 업데이트 파일을 분산적으로 저장하여 효율적으로 관리한다.   
 이를 통해 기기 인증, 무결성, 감사 가능성, 고가용성을 보장하며, 제조사와 사용자 모두에게 안전하고 효율적인 업데이트 환경을 제공한다.
-
-&nbsp;
-> ※ **2025년 한국자동차공학회 춘계학술대회** 논문 투고  
-> 자동차 ECU 환경의 소프트웨어 업데이트를 위한 해시 함수 성능 평가 연구   
-> 속성 만료와 속성 레벨 키 갱신을 활용한 CP-ABE 기반 IoT 소프트웨어 업데이트의 보안성 강화 연구 
->   
-> ※ 추후 SW산학협력프로젝트를 통해 SDV(Software-Defined Vehicle) 환경에 적합한 음성 인식 기반 OTA 소프트웨어 업데이트 적용 기법을 연구할 예정이며, 이를 통해 음성 인식 기능을 도입하여 차량 소유자를 식별하고, 소프트웨어 업데이트 접근 제어의 보안성을 한층 강화할 계획
 
 
 &nbsp;
@@ -73,12 +78,12 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 ### Manufacturer
 <table>
   <tr>
-    <td><img width="400" src="https://github.com/user-attachments/assets/b9aeac84-ceb9-4d2f-bda7-06174e1e72cd" /></td>
-    <td><img width="400" src="https://github.com/user-attachments/assets/9508e83c-46c1-416d-afe7-486f8ff9a9cc" /></td>
+    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/b9aeac84-ceb9-4d2f-bda7-06174e1e72cd" /></td>
+    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/69b90301-c7ef-4aa5-85b9-f2aee1d46f71" /></td>
   </tr>
   <tr>
-    <td><img width="400" src="https://github.com/user-attachments/assets/c5352533-448f-427f-af53-c509b87a665d" /></td>
-    <td><img width="400" src="https://github.com/user-attachments/assets/364c5088-a5cb-45f6-80cd-c3668ea419d5" /></td>
+    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/f9a37c23-d531-4734-a88f-4a39f24d5ed5" /></td>
+    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/719cfabb-e33d-4ffc-8f4c-6c283608f810" /></td>
   </tr>
 </table>
 
@@ -97,8 +102,8 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 ### Device
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/44907395-e1d9-481a-a6cb-e73601ebf84e" width="400" height="250" /></td>
-    <td><img src="https://github.com/user-attachments/assets/b0f34620-ff57-46ce-b87a-61108d3c85bc" width="400" height="250" /></td>
+    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/44907395-e1d9-481a-a6cb-e73601ebf84e" /></td>
+    <td><img width="450" height="250" src="https://github.com/user-attachments/assets/b0f34620-ff57-46ce-b87a-61108d3c85bc" /></td>
   </tr>
 </table>
 
@@ -131,10 +136,18 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 4. **확장성 및 고가용성**  
    IPFS 기반의 파일 분산 저장 구조를 통해 대규모 IoT 환경에서도 뛰어난 확장성과 고가용성을 제공
 
+&nbsp;
+## *****Achievements and Future Research*****
+> ※ **2025년 한국자동차공학회 춘계학술대회** 논문 투고  
+> 자동차 ECU 환경의 소프트웨어 업데이트를 위한 해시 함수 성능 평가 연구   
+> 속성 만료와 속성 레벨 키 갱신을 활용한 CP-ABE 기반 IoT 소프트웨어 업데이트의 보안성 강화 연구 
+>   
+> ※ 추후 SW산학협력프로젝트를 통해 SDV(Software-Defined Vehicle) 환경에 적합한 음성 인식 기반 OTA 소프트웨어 업데이트 적용 기법을 연구할 예정이며, 이를 통해 음성 인식 기능을 도입하여 차량 소유자를 식별하고, 소프트웨어 업데이트 접근 제어의 보안성을 한층 강화할 계획
+
 
 &nbsp;
-## ⛓️ *****Team Blocker - Developers*****
-| <a href="https://github.com/kharabiner" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/168187962?v=4" /></a> | <a href="https://github.com/3DUCK" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/127683099?v=4" /></a> | <a href="https://github.com/se0y" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/170965462?v=4" /></a> | <a href="https://github.com/marulog" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/150882419?v=4" /></a> | <a href="https://github.com/mmije0ng" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/127730905?v=4" /></a> |
+## ⛓️ *****Team Blocker Developers*****
+| <a href="https://github.com/kharabiner" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/168187962?v=4" /></a> | <a href="https://github.com/se0y" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/127683099?v=4" /></a> | <a href="https://github.com/3DUCK" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/170965462?v=4" /></a> | <a href="https://github.com/marulog" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/150882419?v=4" /></a> | <a href="https://github.com/mmije0ng" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/127730905?v=4" /></a> |
 |:-------------:|:------:|:------:|:------:|:------:|
 | [박한빈 (팀장)](https://github.com/kharabiner) | [공서연](https://github.com/se0y) | [김건우](https://github.com/3DUCK) | [박준희](https://github.com/marulog) | [박미정](https://github.com/mmije0ng) |
 
