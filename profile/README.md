@@ -9,7 +9,7 @@
 </table>
 
 &nbsp;
-## Contents
+## *****Contents*****
 - [Project Description](#project-description)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
@@ -83,7 +83,7 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
   </tr>
   <tr>
     <td><img width="500" height="250" src="https://github.com/user-attachments/assets/f9a37c23-d531-4734-a88f-4a39f24d5ed5" /></td>
-    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/719cfabb-e33d-4ffc-8f4c-6c283608f810" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/882e0b75-f4a1-464f-85ae-b3a35e84e330" /></td>
   </tr>
 </table>
 
