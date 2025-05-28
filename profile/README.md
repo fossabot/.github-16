@@ -83,8 +83,9 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
   </tr>
   <tr>
     <td><img width="500" height="250" src="https://github.com/user-attachments/assets/f9a37c23-d531-4734-a88f-4a39f24d5ed5" /></td>
-    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/882e0b75-f4a1-464f-85ae-b3a35e84e330" /></td>
+    <td><img width="500" height="250" src="https://github.com/user-attachments/assets/b1e83948-0e5a-4865-b9f5-79eae5d0b4eb" /></td>
   </tr>
+
 </table>
 
 **제조사 주요 기능**
