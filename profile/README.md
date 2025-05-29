@@ -1,6 +1,6 @@
 # Blockchain Based IoT Software Update Platform
 > Hansung University Team **Blocker**
-<img widht="800" src="https://github.com/user-attachments/assets/1290dadf-f65c-4e51-af90-b5ec2b2ebfa1" />
+<img widht="960" src="https://github.com/user-attachments/assets/1290dadf-f65c-4e51-af90-b5ec2b2ebfa1" />
 
 
 &nbsp;
