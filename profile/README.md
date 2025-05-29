@@ -1,5 +1,5 @@
 # Blockchain Based IoT Software Update Platform
-> Hansung University Capstone design 
+> Hansung University Team **Blocker**
 
 <table>
   <tr>
@@ -7,6 +7,7 @@
     <td><img width="500" height="250" src="https://github.com/user-attachments/assets/44907395-e1d9-481a-a6cb-e73601ebf84e" /></td>
   </tr>
 </table>
+
 
 &nbsp;
 ## *****Contents*****
@@ -18,6 +19,7 @@
   - [Device](#device)
 - [Expected Impact](#expected-impact)
 - [Achievements and Future Research](#achievements-and-future-research)
+- [Additional Info](#additional-info)
 - [Team Blocker Developers](#️-team-blocker-developers)
 
 
@@ -85,7 +87,6 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
     <td><img width="500" height="250" src="https://github.com/user-attachments/assets/f9a37c23-d531-4734-a88f-4a39f24d5ed5" /></td>
     <td><img width="500" height="250" src="https://github.com/user-attachments/assets/b1e83948-0e5a-4865-b9f5-79eae5d0b4eb" /></td>
   </tr>
-
 </table>
 
 **제조사 주요 기능**
@@ -144,6 +145,14 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 > 속성 만료와 속성 레벨 키 갱신을 활용한 CP-ABE 기반 IoT 소프트웨어 업데이트의 보안성 강화 연구 
 >   
 > ※ 추후 SW산학협력프로젝트를 통해 SDV(Software-Defined Vehicle) 환경에 적합한 음성 인식 기반 OTA 소프트웨어 업데이트 적용 기법을 연구할 예정이며, 이를 통해 음성 인식 기능을 도입하여 차량 소유자를 식별하고, 소프트웨어 업데이트 접근 제어의 보안성을 한층 강화할 계획
+
+
+&nbsp;
+## *****Additional Info*****
+| Category       | Description                                |
+|----------------|--------------------------------------------|
+| Demo Video     | [Watch the demo](https://youtu.be/dioYtYY6i1s) |
+| Panel Info     | [View panel](https://github.com/user-attachments/files/20480591/Blocker.pdf) |
 
 
 &nbsp;
