@@ -137,8 +137,10 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 > ※ **2025년 한국자동차공학회 춘계학술대회** 논문 투고  
 > 자동차 ECU 환경의 소프트웨어 업데이트를 위한 해시 함수 성능 평가 연구   
 > 속성 만료와 속성 레벨 키 갱신을 활용한 CP-ABE 기반 IoT 소프트웨어 업데이트의 보안성 강화 연구 
->   
-> ※ 추후 SW산학협력프로젝트를 통해 SDV(Software-Defined Vehicle) 환경에 적합한 음성 인식 기반 OTA 소프트웨어 업데이트 적용 기법을 연구할 예정이며, 이를 통해 음성 인식 기능을 도입하여 차량 소유자를 식별하고, 소프트웨어 업데이트 접근 제어의 보안성을 한층 강화할 계획
+>
+> ※ **2025 한성대학교 컴퓨터공학부 캡스톤 디자인 우수상** (모바일소프트웨어트랙 부분)
+> 
+> ※ 추후 SW산학협력프로젝트를 통해 SDV(Software-Defined Vehicle) 환경에 적합한 음성 인식 기반 OTA 소프트웨어 업데이트 적용 기법을 연구할 예정이며, 이를 통해 음성 인식 기능을 도입하여 소프트웨어 업데이트 접근 제어의 보안성을 한층 강화할 계획
 
 
 &nbsp;
@@ -153,7 +155,7 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 ## ⛓️ *****Team Blocker Developers*****
 | <a href="https://github.com/kharabiner" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/168187962?v=4" /></a> | <a href="https://github.com/se0y" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/127683099?v=4" /></a> | <a href="https://github.com/3DUCK" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/170965462?v=4" /></a> | <a href="https://github.com/marulog" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/150882419?v=4" /></a> | <a href="https://github.com/mmije0ng" target="_blank"><img width="128" src="https://avatars.githubusercontent.com/u/127730905?v=4" /></a> |
 |:-------------:|:------:|:------:|:------:|:------:|
-| [박한빈 (팀장)](https://github.com/kharabiner) | [공서연](https://github.com/se0y) | [김건우](https://github.com/3DUCK) | [박준희](https://github.com/marulog) | [박미정](https://github.com/mmije0ng) |
+| [박한빈(팀장)](https://github.com/kharabiner) | [공서연](https://github.com/se0y) | [김건우](https://github.com/3DUCK) | [박준희](https://github.com/marulog) | [박미정](https://github.com/mmije0ng) |
 
 ### Contact
 - **박한빈**: 2271432@hansung.ac.kr  
