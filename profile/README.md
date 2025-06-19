@@ -54,6 +54,8 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 ### Blockchain
 - Solidity (스마트 컨트랙트)
 - Ganache (로컬 블록체인 테스트 환경)
+- Ethereum Smart Contract
+- Registry Service
 - Web3.py
 - Docker
 - AWS
