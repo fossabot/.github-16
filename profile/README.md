@@ -28,7 +28,7 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 &nbsp;
 ## *****Architecture*****
 <p align="center">
-  <img width="960" alt="architecture-diagram" src="https://github.com/user-attachments/assets/9954dadc-9920-4ebf-bc24-a0fe044f8c6e" />
+  <img width="1860" height="1500" alt="블로커 아키텍처 오픈소스" src="https://github.com/user-attachments/assets/1508c083-76b8-439b-a385-8e39b34d9fc9" />
 </p>
 
 
@@ -142,7 +142,7 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 >
 > ※ **2025 한성대학교 컴퓨터공학부 캡스톤 디자인 우수상** (모바일소프트웨어트랙 부분)
 > 
-> ※ 추후 SW산학협력프로젝트를 통해 SDV(Software-Defined Vehicle) 환경에 적합한 음성 인식 기반 OTA 소프트웨어 업데이트 적용 기법을 연구할 예정이며, 이를 통해 음성 인식 기능을 도입하여 소프트웨어 업데이트 접근 제어의 보안성을 한층 강화할 계획
+> ※ SW산학협력프로젝트를 통해 SDV(Software-Defined Vehicle) 환경에 적합한 음성 인식 기반 OTA 소프트웨어 업데이트 적용 기법을 연구할 예정이며, 이를 통해 음성 인식 기능을 도입하여 소프트웨어 업데이트 접근 제어의 보안성을 한층 강화
 
 
 &nbsp;
