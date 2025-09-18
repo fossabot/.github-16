@@ -28,7 +28,7 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 &nbsp;
 ## *****Architecture*****
 <p align="center">
-  <img width="960" alt="architecture-diagram" src="https://github.com/user-attachments/assets/a7cb9ac8-c929-46be-879d-7f68039cad7f" />
+  <img width="2232" height="1800" alt="image" src="https://github.com/user-attachments/assets/9954dadc-9920-4ebf-bc24-a0fe044f8c6e" />
 </p>
 
 
