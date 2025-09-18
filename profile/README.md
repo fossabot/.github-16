@@ -149,7 +149,7 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 ## *****Additional Info*****
 | Category       | Description                                |
 |----------------|--------------------------------------------|
-| Demo Video     | [Watch the demo](https://youtu.be/dioYtYY6i1s) |
+| Demo Video     | [Watch the demo](https://youtu.be/v9fQUMm7_Fg) |
 | Panel Info     | [View panel](https://github.com/user-attachments/files/20480591/Blocker.pdf) |
 
 
