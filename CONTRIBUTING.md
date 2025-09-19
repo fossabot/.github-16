@@ -1,4 +1,4 @@
-# Thank you for contributing to BLOCKER!
+# Thank you for contributing to Blocker!
 
 We are truly grateful that you are interested in contributing to this project. Your contributions help make this project better for everyone.
 
@@ -17,41 +17,60 @@ This document is a guideline for contributing to our project.
 
 There are many ways to contribute to the project beyond writing code.
 
--   Fixing typos or improving the documentation
--   Reporting bugs or suggesting new features
--   Answering questions in the Issues section
+- Fixing typos or improving the documentation  
+- Reporting bugs or suggesting new features  
+- Answering questions in the Issues section  
 
 ## Reporting Bugs
 
-If you find a bug, please report it in the [Issues tab](LINK_TO_ISSUES). When creating a bug report, including the following details will be very helpful for us to resolve the issue.
+If you find a bug, please report it in the [Issues tab](https://github.com/HSU-Blocker/Blocker_Device/issues). When creating a bug report, including the following details will be very helpful for us to resolve the issue.
 
--   Your operating system and browser version
--   Specific steps to reproduce the bug
--   What you expected to happen vs. what actually happened
--   A screenshot (if possible)
+- Your operating system and browser version  
+- Specific steps to reproduce the bug  
+- What you expected to happen vs. what actually happened  
+- A screenshot (if possible)  
 
 ## Suggesting Enhancements
 
-If you have a new idea, feel free to suggest it in the [Issues tab](LINK_TO_ISSUES). Before submitting, it's a good idea to check if a similar suggestion has already been made.
+If you have a new idea, feel free to suggest it in the [Issues tab](https://github.com/HSU-Blocker/Blocker_Device/issues). Before submitting, it's a good idea to check if a similar suggestion has already been made.
 
 ## Pull Request Process
 
-1.  Create a new branch from the `main` branch. (e.g., `git checkout -b feature/new-amazing-feature` or `bugfix/fix-that-bug`)
-2.  Make your changes and commit them. Please follow the [Commit Message Conventions](#commit-message-conventions).
-3.  Push your branch to your forked repository.
-4.  Open a Pull Request (PR) from your fork to the original repository.
-5.  Make sure the PR title and description are clear and easy for others to understand.
+1. Create a new branch from the `main` branch. (e.g., `git checkout -b feature/new-amazing-feature` or `bugfix/fix-that-bug`)  
+2. Make your changes and commit them. Please follow the [Commit Message Conventions](#commit-message-conventions).  
+3. Push your branch to your forked repository.  
+4. Open a Pull Request (PR) from your fork to the original repository.  
+5. Make sure the PR title and description are clear and easy for others to understand.  
+
+> ⚠️ Before submitting a Pull Request, please first **create an Issue**, then create a branch for that Issue, and finally open a PR targeting the `main` branch.  
 
 ## Styleguides
 
 ### Commit Message Conventions
 
--   Commit messages should follow the `type: subject` format. (e.g., `feat: Add user authentication feature`)
--   Types: `feat`(feature), `fix`(bug), `docs`(documentation), `style`(formatting), `refactor`(refactoring), etc.
+- Commit messages should follow the `type: subject` format. (e.g., `Feat: Add user authentication feature`)  
+- Types can include:  
+
+| Type                 | Description                                                                 |
+| -------------------- | --------------------------------------------------------------------------- |
+| **Feat**             | Add a new feature                                                           |
+| **Fix**              | Fix a bug                                                                   |
+| **Docs**             | Documentation changes                                                       |
+| **Style**            | Code formatting, missing semicolons, etc. (no code logic changes)            |
+| **Refactor**         | Code refactoring                                                            |
+| **Test**             | Add or update tests                                                         |
+| **Chore**            | Changes to build process, package manager, or other miscellaneous tasks      |
+| **Design**           | UI/UX design changes such as CSS updates                                    |
+| **Comment**          | Add or update comments                                                      |
+| **Rename**           | Rename files or folders only                                                |
+| **Remove**           | Remove files only                                                           |
+| **!BREAKING CHANGE** | Major API changes                                                           |
+| **!HOTFIX**          | Critical hotfix for severe bugs                                             |
+
+Commit messages should follow these conventions, but uppercase/lowercase is **not strictly enforced**.
 
 ### Code Style
-
--   Our project uses [Prettier](LINK_TO_PRETTIER_CONFIG) to maintain a consistent code style. Please run `npm run format` before committing.
+- Please follow the Python code style guidelines described in [PEP 8](https://peps.python.org/pep-0008/)
 
 ## Code of Conduct
 
