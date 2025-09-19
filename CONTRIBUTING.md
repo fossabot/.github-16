@@ -23,7 +23,10 @@ There are many ways to contribute to the project beyond writing code.
 
 ## Reporting Bugs
 
-If you find a bug, please report it in the [Issues tab](https://github.com/HSU-Blocker/Blocker_Device/issues). When creating a bug report, including the following details will be very helpful for us to resolve the issue.
+If you find a bug, please report it in the Issues tab.  
+Each issue should be created in the **Issues tab of the corresponding repository**.  
+
+When creating a bug report, including the following details will be very helpful for us to resolve the issue:
 
 - Your operating system and browser version  
 - Specific steps to reproduce the bug  
@@ -32,7 +35,11 @@ If you find a bug, please report it in the [Issues tab](https://github.com/HSU-B
 
 ## Suggesting Enhancements
 
-If you have a new idea, feel free to suggest it in the [Issues tab](https://github.com/HSU-Blocker/Blocker_Device/issues). Before submitting, it's a good idea to check if a similar suggestion has already been made.
+If you have a new idea, feel free to suggest it in the Issues tab.  
+Each enhancement request should also be created in the **Issues tab of the corresponding repository**.  
+
+Before submitting, it's a good idea to check if a similar suggestion has already been made.
+
 
 ## Pull Request Process
 
