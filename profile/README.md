@@ -25,6 +25,18 @@ CP-ABE를 활용해 제조사의 업데이트 정책과 속성이 일치하는 �
 이를 통해 기기 인증, 무결성, 감사 가능성, 고가용성을 보장하며, 제조사와 사용자 모두에게 안전하고 효율적인 업데이트 환경을 제공한다.
 
 
+## Installation
+
+Please follow the installation order below:
+
+1. **Blockchain**
+2. **Device Backend**
+3. **Manufacturer Backend**
+4. **Device & Manufacturer Frontend**
+
+For detailed installation instructions, please refer to the `install.md` file in each repository.
+
+
 &nbsp;
 ## *****Architecture*****
 <p align="center">
